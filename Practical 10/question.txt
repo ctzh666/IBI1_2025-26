@@ -1,0 +1,9 @@
+Which country or countries recorded fewer than 18,000 DALYs in a single year?
+from line 39~43
+answer:Japan
+Singapore
+Iceland
+South Korea
+Israel
+Spain
+Switzerland
