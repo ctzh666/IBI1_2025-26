@@ -1,0 +1,2 @@
+In this course, I learned how to use Python to write some programs on VS Code and how to edit and save some simple files. I also learned how to create my own GitHub account and upload some code.
+
